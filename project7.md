@@ -185,7 +185,24 @@ Afterwards, I ensured that the html folder from the cloned repo is deployed to /
 
 ![image38](images/img38.png)
 
+I disabled SELinux in the web servers 
 
+![image39](images/img39.png)
+
+![image40](images/img40.png)
+
+I configure database server by adding tooling database.
+
+![image42](images/img42.png)
+
+I updated the website's configuration to connect to the database.
+
+![image43](images/img43.png)
+![image44](images/img44.png)
+
+I logged in to the website successfully.
+
+![image45](images/img45.png)
 
 
 
